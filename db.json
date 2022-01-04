@@ -1,4 +1,6 @@
-{
-	id: '1',
-	nama: 'faisal'
-}
+[
+	{
+		id: '1',
+		nama: 'faisal'
+	}
+]
